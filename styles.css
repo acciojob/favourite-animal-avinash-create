@@ -1,2 +1,13 @@
 
 /* Your CSS Code here. */
+img
+{
+	 width: 300px;
+  
+  
+  transition: width .89s linear;
+}
+img:hover
+{
+	 width:600px;
+}
